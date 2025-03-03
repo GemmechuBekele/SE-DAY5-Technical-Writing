@@ -23,18 +23,19 @@ To gauge the existing knowledge of an audience and avoid overwhelming them with 
 #### 4 What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 To ensure content is accessible to individuals with limited technical knowledge, the following professional techniques can be employed:
 
-. Plain Language Communication: Utilize clear and straightforward language, avoiding technical jargon or acronyms. When specialized terms are necessary, provide concise definitions or explanations in context.
-. Analogical Reasoning: Leverage analogies and metaphors to connect complex technical concepts to familiar, real-world scenarios, enhancing relatability and comprehension.
-. Visual Representation: Integrate visual aids such as diagrams, infographics, flowcharts, or videos to visually convey information, reducing cognitive load and improving retention.
-. Structured Content Delivery: Organize information into logical, bite-sized segments with clear headings, subheadings, and summaries to facilitate easier navigation and understanding.
-. Practical Relevance: Emphasize the practical implications and real-world applications of the content to align with the audience’s needs and demonstrate its value.
-. Exemplification: Provide concrete examples, case studies, or use cases to illustrate how theoretical concepts translate into tangible outcomes.
-. Interactive Engagement: Incorporate mechanisms for feedback, such as Q&A sessions, quizzes, or discussion prompts, to assess comprehension and address potential misunderstandings in real time.
+- Plain Language Communication: Utilize clear and straightforward language, avoiding technical jargon or acronyms. When specialized terms are necessary, provide concise definitions or explanations in context.
+- Analogical Reasoning: Leverage analogies and metaphors to connect complex technical concepts to familiar, real-world scenarios, enhancing relatability and comprehension.
+- Visual Representation: Integrate visual aids such as diagrams, infographics, flowcharts, or videos to visually convey information, reducing cognitive load and improving retention.
+- Structured Content Delivery: Organize information into logical, bite-sized segments with clear headings, subheadings, and summaries to facilitate easier navigation and understanding.
+- Practical Relevance: Emphasize the practical implications and real-world applications of the content to align with the audience’s needs and demonstrate its value.
+- Exemplification: Provide concrete examples, case studies, or use cases to illustrate how theoretical concepts translate into tangible outcomes.
+- Interactive Engagement: Incorporate mechanisms for feedback, such as Q&A sessions, quizzes, or discussion prompts, to assess comprehension and address potential misunderstandings in real time.
    
 #### 5 Why is it important to use plain language instead of technical jargon in your writing?
 Using plain language instead of technical jargon is crucial because it ensures clarity, accessibility, and inclusivity for diverse audiences. It reduces the risk of misinterpretation, enhances comprehension, and fosters engagement by making content relatable and easy to understand, regardless of the reader’s expertise level.
 
 #### 6 Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
+
 Simplifying terms, such as using "start" instead of "initiate," improves comprehension by reducing cognitive load and ensuring the message is accessible to a broader audience. For instance:
 
     - Clarity: "Start the process" is immediately understood, whereas "initiate the process" may require additional interpretation for non-experts.
