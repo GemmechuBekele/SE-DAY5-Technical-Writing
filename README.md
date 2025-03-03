@@ -37,10 +37,9 @@ Using plain language instead of technical jargon is crucial because it ensures c
 #### 6 Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 
 Simplifying terms, such as using "start" instead of "initiate," improves comprehension by reducing cognitive load and ensuring the message is accessible to a broader audience. For instance:
-
-    - Clarity: "Start the process" is immediately understood, whereas "initiate the process" may require additional interpretation for non-experts.
-    - Efficiency: Simplified terms streamline communication, allowing readers to grasp ideas quickly without pausing to decipher complex vocabulary.
-    - Inclusivity: Using familiar language ensures that individuals with varying levels of expertise or non-native speakers can engage with the content effectively.
+- Clarity: "Start the process" is immediately understood, whereas "initiate the process" may require additional interpretation for non-experts.
+- Efficiency: Simplified terms streamline communication, allowing readers to grasp ideas quickly without pausing to decipher complex vocabulary.
+- Inclusivity: Using familiar language ensures that individuals with varying levels of expertise or non-native speakers can engage with the content effectively.
     
 #### 7 How can using examples and visuals help in explaining complex concepts more clearly?
 Using examples and visuals helps clarify complex concepts by providing tangible context and simplifying abstract ideas. Examples illustrate real-world applications, making content relatable and actionable, while visuals like diagrams, charts, or infographics break down intricate information into digestible components. Together, they enhance comprehension, improve retention, and cater to diverse learning styles, ensuring the audience can more easily grasp and apply the material.
